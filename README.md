@@ -9,6 +9,7 @@ Step 4: Select a UML diagramming tool and start drawing the diagram.
 Step 5:Position elements (classes, actors, etc.) on the diagram and draw relationships between them.   
 
 ## DIAGRAMS:
+
 ### USECASE DIAGRAM:
 ![USECASE DIAGRAM 1](https://github.com/user-attachments/assets/a5363f22-eb3e-453c-bde7-d995a41788f3)
 ### CLASS DIAGRAM:
